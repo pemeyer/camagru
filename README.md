@@ -1,4 +1,4 @@
-Camagru is a simple wethinkcode project that captures images from a webcam and displays it in a gallery.
+<h1>Camagru is a simple wethinkcode project that captures images from a webcam and displays it in a gallery.</h1>
 
 Sign up:
 Sign up with a username, email and password. Once registered an email is sent to verify your Camagru account. Once the link is clicked in the email you're redirected to the login page.
